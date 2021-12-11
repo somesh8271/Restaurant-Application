@@ -1,5 +1,5 @@
 # Restaurant-Application
-A react application for a Restaurant where you can see the Executive details and see the all the dishes details and submit the comments for dishes.
+A react application for a Restaurant where you can see the Executive details and see all the dishes details and submit the comments for dishes.
 
 Dishes Applications contains the code for Frontend application.
 json-server is the server for fetching the data.
